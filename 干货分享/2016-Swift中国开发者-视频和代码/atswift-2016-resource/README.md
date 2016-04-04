@@ -4,7 +4,10 @@ https://github.com/atConf/atswift-2016-resources
 
 [github 地址](https://github.com/atConf/atswift-2016-resources)
 
+###2016 Swift开发者大会视频-轩哥百度网盘地址
+链接: http://pan.baidu.com/s/1kUUPBnD 密码: agt6
 
+[2016 Swift开发者大会视频-轩哥网盘](http://pan.baidu.com/s/1kUUPBnD)
 
 Resource files for atswift conference 2016, including keynote, pdf, source projects or playgrounds.
 

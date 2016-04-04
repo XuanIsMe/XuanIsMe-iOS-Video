@@ -1,7 +1,23 @@
-# 轩哥的随堂视频
+# 轩哥技术分享
 ==========
 Hi,大家好我是轩哥
-轩哥的随堂视频 ，可以相互传播下哟
-###百度网盘地址###链接: http://pan.baidu.com/s/1kUUPBnD 密码: agt6###C语言阶段随堂视频和代码下载地址欢迎下载百度网盘:链接: http://pan.baidu.com/s/1sl3Pmqh 密码: wtix###代码github地址: https://github.com/XuanIsMe/XuanIsMe-iOS-Video.git欢迎观看###优酷地址http://i.youku.com/u/UMzM2ODk1MzkwNA==
------###轩哥优酷二维码![](./images/优酷二维码.png) ###初学者轩哥分享群
+
+========
+
+###轩哥的随堂视频 ，可以相互传播下哟,邀你的朋友一起分享
+###轩哥Video百度网盘地址###链接: http://pan.baidu.com/s/1kUUPBnD 密码: agt6
+
+内容有:
+
+* [C语言阶段视频和代码](http://pan.baidu.com/s/1kUUPBnD)
+* [2016-Swift中国开发者大会](http://pan.baidu.com/s/1kUUPBnD)
+* [2015-时间的朋友-罗振宇(逻辑思维)](http://pan.baidu.com/s/1kUUPBnD)###代码github地址: 
+https://github.com/XuanIsMe/XuanIsMe-iOS-Video.git
+[github地址点击进入](https://github.com/XuanIsMe/XuanIsMe-iOS-Video.git)
+###优酷地址-欢迎观看http://i.youku.com/u/UMzM2ODk1MzkwNA==
+[优酷地址点击进入](http://i.youku.com/u/UMzM2ODk1MzkwNA==)
+
+========
+
+-----###轩哥优酷二维码![](./images/优酷二维码.png) ###初学者轩哥技术交流分享群
 ![](./images/轩哥技术分享群2-1.png)  
