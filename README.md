@@ -5,13 +5,14 @@ Hi,大家好我是轩哥
 ========
 
 ###轩哥的随堂视频 ，可以相互传播下哟,邀你的朋友一起分享
-###轩哥Video百度网盘地址###链接: http://pan.baidu.com/s/1kUUPBnD 密码: agt6
+###轩哥Video百度网盘地址###链接0: http://pan.baidu.com/s/1kUUPBnD 密码: agt6（被屏蔽了-无语了）链接1: http://yun.baidu.com/share/home?uk=3243269039&view=share#category/type=0
+链接2：http://pan.baidu.com/s/1o7NrXOm
 
 内容有:
 
-* [C语言阶段视频和代码](http://pan.baidu.com/s/1kUUPBnD)
-* [2016-Swift中国开发者大会](http://pan.baidu.com/s/1kUUPBnD)
-* [2015-时间的朋友-罗振宇(逻辑思维)](http://pan.baidu.com/s/1kUUPBnD)###代码github地址: 
+* [C语言阶段视频和代码](http://yun.baidu.com/share/home?uk=3243269039&view=share#category/type=0)
+* [2016-Swift中国开发者大会](http://yun.baidu.com/share/home?uk=3243269039&view=share#category/type=0)
+* [2015-时间的朋友-罗振宇(逻辑思维)](http://yun.baidu.com/share/home?uk=3243269039&view=share#category/type=0)###代码github地址: 
 https://github.com/XuanIsMe/XuanIsMe-iOS-Video.git
 [github地址点击进入](https://github.com/XuanIsMe/XuanIsMe-iOS-Video.git)
 ###优酷地址-欢迎观看http://i.youku.com/u/UMzM2ODk1MzkwNA==
