@@ -5,7 +5,7 @@
 
 ========
 ###51CTO学院认证讲师 –轩哥课程在线地址http://edu.51cto.com/lecturer/index/user_id-7474565.html
-=======###轩哥Video百度网盘地址###链接0: http://pan.baidu.com/s/1kUUPBnD 密码: agt6（被屏蔽了-无语了）链接1: http://yun.baidu.com/share/home?uk=3243269039&view=share#category/type=0
+=======###轩哥Video百度网盘地址###链接1: http://yun.baidu.com/share/home?uk=3243269039&view=share#category/type=0
 链接2：http://pan.baidu.com/s/1o7NrXOm
 
 内容有:
